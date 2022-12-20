@@ -34,7 +34,6 @@ kesin çözüm değil.
             throw new RuntimeException(e);
         }
 
-
         System.out.println("Yarış bitti....");
 
     }
