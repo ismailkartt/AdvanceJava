@@ -17,7 +17,6 @@ package AdvJavaPractice.volatileKeyword;
          synchronized(this) {
              counter++;
              System.out.println("Sayın " + name + " sıranız: " + counter);
-    }
-
-
-}}
+        }
+     }
+}
